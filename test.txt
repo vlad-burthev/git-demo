@@ -1,3 +1,6 @@
 edit file
 lesson 2 
 edit file
+add 
+new 
+line
