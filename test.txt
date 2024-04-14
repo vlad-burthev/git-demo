@@ -1,7 +1,13 @@
 edit file
 lesson 2 
 edit file
+<<<<<<< HEAD
 content
 content
 content
 contentcontent
+=======
+add 
+new 
+line
+>>>>>>> 3ea683ec99c48292fe36128287b0e76630b76138
